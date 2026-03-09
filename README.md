@@ -1,3 +1,4 @@
+ HEAD
 # API Orders
 
 API desenvolvida em **Node.js** com **Express** e **MongoDB** para gerenciamento de pedidos.
@@ -40,3 +41,6 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/RMDLucas/api-orders.git
+=======
+# api-orders
+>>>>>>> 1b694e6f3bc4be64380bb8cb227ff05b1425af16
